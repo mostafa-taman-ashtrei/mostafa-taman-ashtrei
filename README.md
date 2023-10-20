@@ -15,10 +15,9 @@ Hi, I'm Mostafa Taman!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer who can create apps for web, mobile.
+💻 I am a self taught Full Stack Developer who can create apps for web, mobile.My main languages: Python, JavaScript, TypeScript.
 📚 I am an active learning always looking for improve my skills. I am currently learning about Computer Vision and Machine Learning stuff.
 🤖 I have a strong interest in Data Science and Artificial Intelligence.
-🖥 Main languages: Python, JavaScript, TypeScript.
 😃 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1_9HEh_REogfP2_1bcentHRh7IaON0aad/view?usp=sharing" target="_blank">MY RESUME</a>.
 </pre>
 <hr>
