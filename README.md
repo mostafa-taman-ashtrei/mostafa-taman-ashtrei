@@ -15,34 +15,31 @@ Hi, I'm Mostafa Taman!
 <hr>
 
 <pre>
-í²» I am a self taught Full Stack Developer who can create apps for web, mobile.
-í³š I am an active learning always looking for improve my skills.
-í´– I have a strong interest in Data Science and Artificial Intelligence.
-í´­ Working on Deep Learning & Machine Learning
-í¼± Learning about Computer Vision and Machine Learning stuff.
-í¼Ÿ Main languages: Python, JavaScript, TypeScript.
-íº© Interested in Full Stack Machine Learning Application development.
-í´” Iâ€™m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1_9HEh_REogfP2_1bcentHRh7IaON0aad/view?usp=sharing" target="_blank">MY RESUME</a>.
+ðŸ’» I am a self taught Full Stack Developer who can create apps for web, mobile.
+ðŸ“š I am an active learning always looking for improve my skills. I am currently learning about Computer Vision and Machine Learning stuff.
+ðŸ¤– I have a strong interest in Data Science and Artificial Intelligence.
+ðŸ–¥ Main languages: Python, JavaScript, TypeScript.
+ðŸ˜ƒ Iâ€™m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1_9HEh_REogfP2_1bcentHRh7IaON0aad/view?usp=sharing" target="_blank">MY RESUME</a>.
 </pre>
 <hr>
 
-## í³§ Connect with me
+## ðŸ“§ Connect with me
 <p align="center">
 	<a href="mailto:mostafa.taman.me@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/mostafa-taman-2353b0248"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/mostafaTaman"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-## í´¥ Tools I Work With
+## ðŸ”¥ Tools I Work With
 
-### í²» Programming Languages
+### ðŸ’» Programming Languages
 
 <p>
     <a href="https://github.com/mostafaTaman"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     <a href="https://github.com/mostafaTaman"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></a>
       <a href="https://github.com/mostafaTaman"><img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 
-### í·° Frameworks and Libraries
+### ðŸ§° Frameworks and Libraries
 
 <p>
     <a href="https://github.com/mostafaTaman"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
